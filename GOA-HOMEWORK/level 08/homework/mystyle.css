@@ -1,0 +1,20 @@
+button{
+    font-size: 50px;
+    height: 120px;
+    color: rgb(255, 255, 0);
+    background-color: black;
+}
+
+#image1{
+
+}
+
+#car{
+    width: 600;
+    height: 400px;
+}
+
+#map{
+    width: 900px;
+
+}
